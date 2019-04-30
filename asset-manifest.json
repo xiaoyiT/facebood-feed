@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/facebook-feed/static/css/main.e1dd7326.chunk.css",
-    "main.js": "/facebook-feed/static/js/main.bddcfc9f.chunk.js",
-    "main.js.map": "/facebook-feed/static/js/main.bddcfc9f.chunk.js.map",
+    "main.js": "/facebook-feed/static/js/main.e29c3b2c.chunk.js",
+    "main.js.map": "/facebook-feed/static/js/main.e29c3b2c.chunk.js.map",
     "runtime~main.js": "/facebook-feed/static/js/runtime~main.941e829f.js",
     "runtime~main.js.map": "/facebook-feed/static/js/runtime~main.941e829f.js.map",
     "static/js/2.97294558.chunk.js": "/facebook-feed/static/js/2.97294558.chunk.js",
     "static/js/2.97294558.chunk.js.map": "/facebook-feed/static/js/2.97294558.chunk.js.map",
     "index.html": "/facebook-feed/index.html",
-    "precache-manifest.d2dc3baacfaf258dd16a9035aebc2462.js": "/facebook-feed/precache-manifest.d2dc3baacfaf258dd16a9035aebc2462.js",
+    "precache-manifest.e4121713420fe0916c97fb3b7c8e6605.js": "/facebook-feed/precache-manifest.e4121713420fe0916c97fb3b7c8e6605.js",
     "service-worker.js": "/facebook-feed/service-worker.js",
     "static/css/main.e1dd7326.chunk.css.map": "/facebook-feed/static/css/main.e1dd7326.chunk.css.map"
   }
